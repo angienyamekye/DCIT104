@@ -1,6 +1,6 @@
 /*
 Author: Angela Nyamekye Afia Manu
-Student ID: 1094
+Student ID: 10948257
 A PROGRAM THAT PRODUCES THE SUM OF ALL PRIME NUMBERS LESS THAN A GIVEN NUMBER
 */
 
