@@ -21,7 +21,7 @@ public class primeNumbers
     }
 
     private static boolean isPrime(int num) {
-        if (num == 0)
+        if (num == 2)
         {
            return true;
         }
